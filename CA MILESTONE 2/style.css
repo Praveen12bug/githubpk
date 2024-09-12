@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: grey;
+}
+.ss{
+    display: inline-block;
+}
+.me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    background-color: rgb(165, 106, 42);
+    color: rgb(4, 157, 4);
+}
